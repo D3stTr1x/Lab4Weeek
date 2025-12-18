@@ -1,5 +1,5 @@
 #include <iostream>
-
+// Komment
 int main()
 {
     std::string name;
